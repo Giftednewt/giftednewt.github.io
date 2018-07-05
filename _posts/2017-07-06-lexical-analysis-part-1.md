@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Lexical Analysis - Part 1
 ---
 It's taken much longer than I'd hoped to get round to finishing off this post. There is always something going which has seen this put on the back burner. Since picking this back up I think I've edited it about a hundred times or so this week (almost edited this bit out too). I've also decided that there is too much to put into a single post to keep things as compact as I'd like I'll be splitting this into two parts. Hopefully the second part will come along quicker than this one.

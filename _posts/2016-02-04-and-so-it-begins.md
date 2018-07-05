@@ -1,4 +1,5 @@
 ---
+layout: default
 title: And so it begins...
 ---
 For those that don't know me, let me introduce myself. I'm a husband, father of 2, software developer and martial artist. I'll be primarly blogging about software development but I may slip in an occassional post on martial arts.

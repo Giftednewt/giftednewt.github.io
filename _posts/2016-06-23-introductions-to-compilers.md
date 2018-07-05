@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Introduction to compilers
 ---
 Since making a few, albeit minor contributions to the [Roslyn](http://www.github.com/dotnet/roslyn) project I have felt that I need a more in-depth understanding of how a compiler works. My understanding is very basic. Yes, I understand that a compiler takes the code that I write and turns that into some form of lower level instructions that are ultimately executed. But how? What are the different parts of the process? How do they fit together? 
